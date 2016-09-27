@@ -1,0 +1,13 @@
+{
+  "name": "GetStartWithAngularApp",
+  "description": "learn angular 1.0",
+  "main": "",
+  "keywords": [
+    "getstartwithangular"
+  ],
+  "authors": [
+    "kelvin nguyen"
+  ],
+  "license": "MIT",
+  "homepage": ""
+}
